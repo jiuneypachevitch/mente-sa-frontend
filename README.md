@@ -1,11 +1,11 @@
 # Projeto desenvolvido para a jornada Dev For Tech da Gama Academy
 
 ## Frontend para o projeto "Mente Sã" construído utilizando:
-### `React`
-### `Typescript`
-### `Redux`
-### `Axios`
-### `React-bootsrap`
+ `React`
+ `Typescript`
+ `Redux`
+ `Axios`
+ `React-bootsrap`
 
 ## Para executar
 
@@ -19,7 +19,7 @@ e em seguida
 
 Para setar a URL da API backend altere o arquivo `.env`
 
-### `REACT_APP_BASE_URL=http://localhost:3001/v1/`
+ `REACT_APP_BASE_URL=http://localhost:3001/v1/`
 
 
   \o/ Ainda em desenvolvimento... 
