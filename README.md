@@ -1,19 +1,25 @@
 # Projeto desenvolvido para a jornada Dev For Tech da Gama Academy
 
 ## Frontend para o projeto "Mente Sã" construído utilizando:
-### React
-### Typescript
-### Redux
-### Axios
-### React-bootsrap
+### `React`
+### `Typescript`
+### `Redux`
+### `Axios`
+### `React-bootsrap`
 
 ## Para executar
 
 Entrar no diretorio raiz do projeto e executar:
 
+### `yarn`
+
+e em seguida
+
 ### `yarn start`
 
   \o/ Ainda em desenvolvimento... 
+
+
 
 ## Construído sobre o boilerplate react-app
 
