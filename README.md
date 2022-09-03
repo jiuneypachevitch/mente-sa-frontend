@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Projeto desenvolvido para a jornada Dev For Tech da Gama Academy
+
+## Frontend para o projeto "Mente Sã" construído utilizando:
+### React
+### Typescript
+### Redux
+### Axios
+### React-bootsrap
+
+  \o/ Ainda em desenvolvimento... 
+
+## Construído sobre o boilerplate react-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
