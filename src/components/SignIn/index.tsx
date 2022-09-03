@@ -26,7 +26,7 @@ const SignInForm: React.FC = () => {
                 console.log("data:", data);
                 dispatch(setUserName(data.user.name));
                 dispatch(setUserId(data.user.id));
-                navigate(routesName.dashboard);
+                navigate(`/${routesName.dashboard}`);
             },
             onError: (msg: any) => {
                 console.log("ERROR:", msg);
