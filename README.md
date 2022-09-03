@@ -17,6 +17,11 @@ e em seguida
 
 ### `yarn start`
 
+Para setar a URL da API backend altere o arquivo `.env`
+
+### `REACT_APP_BASE_URL=http://localhost:3001/v1/`
+
+
   \o/ Ainda em desenvolvimento... 
 
 
