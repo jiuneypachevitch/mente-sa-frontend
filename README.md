@@ -22,9 +22,10 @@ Para setar a URL da API backend altere o arquivo `.env`
  `REACT_APP_BASE_URL=http://localhost:3001/v1/`
 
 
+# O backend está no repositório: `https://github.com/jiuneypachevitch/mente-sa-backend-api`
+
   \o/ Ainda em desenvolvimento... 
-
-
+  
 
 ## Construído sobre o boilerplate react-app
 
