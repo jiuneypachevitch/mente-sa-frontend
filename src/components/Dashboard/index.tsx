@@ -11,8 +11,6 @@ const Dashboard: React.FC = () => {
     const statusLogin = useAppSelector(state => state.login.isLogged);
     return (
         <PageDashboard>
-        { statusLogin ? <h1>Logout</h1> : <h1>Fazer login</h1>}
-        <br />
         <h1>It's me, Mario!</h1>
         </PageDashboard>
     );
