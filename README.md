@@ -7,6 +7,12 @@
 ### Axios
 ### React-bootsrap
 
+## Para executar
+
+Entrar no diretorio raiz do projeto e executar:
+
+### `yarn start`
+
   \o/ Ainda em desenvolvimento... 
 
 ## Construído sobre o boilerplate react-app
