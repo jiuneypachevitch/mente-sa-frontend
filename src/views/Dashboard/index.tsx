@@ -9,8 +9,7 @@ import { logIn, logOut } from 'src/store/loginReducer';
 const styleContainer = {
     "display": "flex",
     "marginBottom": "30px",
-    "paddingTop": "10px",
-    "border": "1px solid red"
+    "paddingTop": "10px"
 }
 
 const Dashboard: React.FC = () => {
